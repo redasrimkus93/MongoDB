@@ -1,0 +1,34 @@
+{
+  "Id": 1,
+  "Arms": [
+    {
+      "Material": "Steel",
+      "NumberOfJoints": 4,
+      "NumberOfFingers": 4
+    },
+    {
+      "Material": "Wood",
+      "NumberOfJoints": 4,
+      "NumberOfFingers": 5
+    }
+  ],
+  "Legs": [
+    {
+      "Material": "Gold",
+      "NumberOfJoints": 6,
+      "SizeOfFoot": 42
+    },
+    {
+      "Material": "Gold",
+      "NumberOfJoints": 6,
+      "SizeOfFoot": 42
+    }
+  ],
+  "Torso": {
+    "ChestMeasurements": 80,
+    "WaistMeasurements": 50
+  },
+  "Head": {
+    "HeadType": 3
+  }
+}
